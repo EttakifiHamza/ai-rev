@@ -18,7 +18,7 @@ function HeroSection() {
           </h1>
           <p className="text-lg text-gray-600 max-w-lg">
             Discover how AI is transforming industries and improving lives
-            worldwide. Our cutting-edge solutions harness the power of machine
+            worldwide. Our cutting-edge Solutions harness the power of machine
             learning to solve complex problems.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 pt-4">
@@ -38,7 +38,7 @@ function HeroSection() {
             </div>
             <p className="text-sm font-medium text-gray-600">
               Trusted by{" "}
-              <span className="text-primary font-bold">10,000+</span> people
+              <span className="text-primary font-bold">10,0000+</span> people
               worldwide
             </p>
           </div>
