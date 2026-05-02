@@ -38,14 +38,14 @@ function HeroSection() {
             </div>
             <p className="text-sm font-medium text-gray-600">
               Trusted by{" "}
-              <span className="text-primary font-bold">10,0000+</span> people
+              <span className="text-primary font-bold">10,000+</span> people
               worldwide
             </p>
           </div>
         </div>
 
         {/* right image */}
-        <div className="relative w-full h-80 md:h-[600px]">
+        <div className="relative w-full h-80 md:h-150">
           <img 
           src="https://images.unsplash.com/photo-1674027444485-cec3da58eef4?q=80&w=1932&auto=format&fit=crop"
           className="w-full h-full object-cover rounded-2xl"
