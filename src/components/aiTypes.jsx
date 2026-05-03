@@ -51,7 +51,7 @@ const aiTypes = [
 
 function AiTypes() {
   return (
-    <section id='type' className='app-container py-16'>
+    <section id='types' className='app-container py-16'>
       <div className="text-center mb-12">
         <span className="section-subheader">AI Technilogies</span>
         <h2 className="section-header">
